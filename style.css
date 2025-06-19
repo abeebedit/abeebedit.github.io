@@ -1,0 +1,37 @@
+body {
+font-family:Arial,san-serif;
+background-color: blue;
+}
+h1{
+color:white;
+font-size:40px;
+font family: georgia;
+}
+a{
+color:white;
+font-size:20px;
+text decoration:none;
+}
+h2{
+color:yellow;
+}
+h3{
+color:white;
+}
+ul{
+color:yellow;
+font-size:20px;
+}
+p1{
+color:white;
+font-size:20px;
+}
+p{
+color:white;
+}
+footer{
+color: yellow;
+}
+
+
+
